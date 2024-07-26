@@ -10,6 +10,7 @@ function App() {
       <Mensaje color="red" message="Estamos trabajando" />
       <Mensaje color="green" message="En un curso" />
       <Mensaje color="yellow" message="De React" />
+      <Mensaje color="yellow" message="Saludos de VSCode" />
       <Description />
     </div>
   );
