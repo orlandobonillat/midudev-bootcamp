@@ -9,9 +9,7 @@ function App() {
     <div className="App">
       <Mensaje color="red" message="Estamos trabajando" />
       <Mensaje color="green" message="En un curso" />
-      <Mensaje color="yellow" message="De React la nueva rama Master" />
-      <Mensaje color="yellow" message="De React la nueva rama Master" />
-
+      <Mensaje color="yellow" message="De React" />
       <Description />
     </div>
   );
